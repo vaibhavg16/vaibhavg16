@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="Jaishree Chaure Banner">
+<img src="./assets/github-banner.png" width="100%" alt="Vaibhav Godse Banner">
 </p>
 
 <br>
