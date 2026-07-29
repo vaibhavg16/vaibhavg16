@@ -1,6 +1,9 @@
-# ⚡ Vaibhav Godse
-### Linux Systems & DevOps Engineer
+<p align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Jaishree Chaure Banner">
+</p>
 
-> *Bridging code and infrastructure through automation, containerization, and continuous delivery.*
+<br>
 
----
+<h1 align="center">
+Hi, I'm Vaibhav Godse 👋
+</h1>
