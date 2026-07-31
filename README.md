@@ -78,3 +78,20 @@ Linux & Aspiring DevOps Engineer
 - [90DaysOfDevOps](https://github.com/vaibhavg16/90DaysOfDevOps-2026/tree/master)
 
 ---
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhavgodse16122002/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Godse-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:godseviabhav201@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/vaibhavg16">
+    <img src="https://img.shields.io/badge/GitHub-vaibhavg16-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
