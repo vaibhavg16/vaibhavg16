@@ -1,15 +1,11 @@
-<p align="center">
-<img src="images/github-banner.png" style="width: 100%; height: 250px; object-fit: cover;" alt="Vaibhav Godse Banner">
-</p>
-
-<br>
-
 <h1 align="center">
-Hi, I'm Vaibhav Godse 👋
+  <code>> root@vaibhav:~# whoami</code>
 </h1>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=Linux+%26+Open+Source+Enthusiast;Aspiring+DevOps+Engineer;Cloud+%26+Automation+Learner;Continuous+Deployment+Mindset" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Vaibhav+Godse;Linux+%26+Open+Source+Enthusiast;Aspiring+DevOps+Engineer;Automating+Infrastructure+One+Script+at+a+Time" alt="Typing SVG" />
+  </a>
 </h3>
 
 ## 👨‍💻 About Me
