@@ -10,7 +10,7 @@ Hi, I'm Vaibhav Godse 👋
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Vaibhav+Godse;Linux+%26+Open+Source+Enthusiast;Aspiring+DevOps+Engineer;Automating+Infrastructure+One+Script+at+a+Time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Vaibhav+Godse;Linux+%26+Open+Source+Enthusiast;Aspiring+DevOps+Engineer" alt="Typing SVG" />
   </a>
 </h3>
 
