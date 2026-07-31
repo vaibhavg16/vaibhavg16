@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <h1>✨ Welcome to My Space | Hi, I'm <span style="color: yellow;">Vaibhav Godse</span> 👋</h1>
+  <h1>Hi👋, I'm Vaibhav Godse | Welcome to My Space </h1>
   <p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Linux+%26+Open+Source+Enthusiast;Aspiring+DevOps+Engineer;Cloud+%26+Automation+Learner" alt="Typing SVG" />
@@ -80,6 +80,19 @@
 - [90DaysOfDevOps](https://github.com/vaibhavg16/90DaysOfDevOps-2026/tree/master)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=vaibhavg16&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavg16&theme=tokyonight" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaibhavg16&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
