@@ -9,7 +9,7 @@ Hi, I'm Vaibhav Godse 👋
 </h1>
 
 <h3 align="center">
-Linux & Aspiring DevOps Engineer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=Linux+%26+Open+Source+Enthusiast;Aspiring+DevOps+Engineer;Cloud+%26+Automation+Learner;Continuous+Deployment+Mindset" alt="Typing SVG" /></a>
 </h3>
 
 ## 👨‍💻 About Me
