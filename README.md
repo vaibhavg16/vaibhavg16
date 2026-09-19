@@ -91,7 +91,7 @@
 
 > My hands-on Cloud & DevOps learning journey.
 
-- [90DaysOfDevOps](https://github.com/vaibhavg16/90DaysOfDevOps-2026/tree/master)
+- [![90DaysOfDevOps](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavg16/90DaysOfDevOps-2026/tree/master)
 
 ---
 ## 📊 GitHub Stats
