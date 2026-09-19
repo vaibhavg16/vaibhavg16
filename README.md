@@ -73,6 +73,22 @@
 
 ## 📌 Featured Projects
 
+### 🚀 Automated CI/CD & Portfolio Deployment
+> Continuous Integration and Deployment pipeline for a personal portfolio website.
+- 🔹 Built an automated CI/CD pipeline using GitHub Actions (YAML) with separate stages for **Code → Build → Test → Deploy** and a self-hosted runner to continuously build, test, and deploy a personal portfolio website directly to a dedicated server.
+- 🔹 Configured Nginx as a web server to serve the site with optimized static file handling and correct file permissions on Linux.
+- 🔹 Deployed the site via GitHub Pages for fast, reliable, and free hosting.
+- 🔹 Managed the entire codebase and release history using Git & GitHub, following clean commit and branching practices.
+
+[![Live Site](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=firefox&logoColor=white)](https://vaibhavg16.github.io/vaibhav-portfolio/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavg16/vaibhav-portfolio.git)
+
+
+
+**Tech Stack:** `Git` | `GitHub` | `GitHub Actions` | `Nginx` | `Linux` | `YAML`
+
+---
+
 ### 🚀 90 Days of DevOps
 
 > My hands-on Cloud & DevOps learning journey.
